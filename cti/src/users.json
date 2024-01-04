@@ -1,0 +1,201 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "investigador",
+      "password": "contrasena1",
+      "role": "5"
+    },
+    {
+      "id": 2,
+      "username": "jefedpt",
+      "password": "contrasena2",
+      "departamento": "Informatica",
+      "role": "4"
+    },
+    {
+      "id": 3,
+      "username": "vicedecano",
+      "password": "contrasena3",
+      "role": "3"
+    },
+    {
+      "id": 4,
+      "username": "direccioncti",
+      "password": "contrasena4",
+      "role": "2"
+    },
+    {
+      "id": 5,
+      "username": "administrador",
+      "password": "contrasena5",
+      "role": "1"
+    },
+    {
+      "username": "carly",
+      "password": "damianliriano",
+      "role": "5",
+      "id": 6
+    },
+    {
+      "username": "veronica2",
+      "password": "hyeiendshs",
+      "role": "5",
+      "id": 7
+    },
+    {
+      "username": "Alberto3",
+      "password": "wretilsrhnf",
+      "role": "5",
+      "id": 8
+    },
+    {
+      "username": "julio45",
+      "password": "yensdkirlsp",
+      "role": "5",
+      "id": 9
+    },
+    {
+      "username": "julio45",
+      "password": "yensdkirlsp",
+      "role": "5",
+      "id": 10
+    },
+    {
+      "role": "4",
+      "id": 11
+    },
+    {
+      "username": "pedro45",
+      "password": "pppppllll",
+      "role": "5",
+      "id": 12
+    },
+    {
+      "username": "pedro",
+      "password": "oeldehfdjkf",
+      "role": "5",
+      "id": 13
+    },
+    {
+      "username": "lina56",
+      "password": "ttghsdfc",
+      "role": "5",
+      "id": 14
+    },
+    {
+      "username": "lina56",
+      "password": "ttghsdfc",
+      "role": "5",
+      "id": 15
+    },
+    {
+      "username": "lina56",
+      "password": "ttghsdfc",
+      "role": "5",
+      "id": 16
+    },
+    {
+      "username": "lina56",
+      "password": "ttghsdfc",
+      "role": "5",
+      "id": 17
+    },
+    {
+      "username": "jefedpt",
+      "password": "contrasena2",
+      "role": "5",
+      "id": 18
+    },
+    {
+      "username": "linzandra",
+      "password": "fheouifheof",
+      "role": "5",
+      "id": 19
+    },
+    {
+      "username": "linzandra",
+      "password": "fheouifheof",
+      "role": "5",
+      "id": 20
+    },
+    {
+      "username": "lizandra",
+      "password": "lorgnjrig",
+      "role": "5",
+      "id": 21
+    },
+    {
+      "username": "lizandra",
+      "password": "lorgnjrig",
+      "role": "5",
+      "id": 22
+    },
+    {
+      "username": "David",
+      "password": "davis12",
+      "role": "5",
+      "id": 23
+    },
+    {
+      "username": "Claudia",
+      "password": "treiktl",
+      "role": "5",
+      "id": 24
+    },
+    {
+      "username": "Pedro",
+      "password": "olja22",
+      "role": "5",
+      "id": 25
+    },
+    {
+      "username": "Diome23",
+      "password": "diomedys",
+      "role": "5",
+      "id": 26
+    },
+    {
+      "username": "departamento",
+      "password": "depart1",
+      "role": "4",
+      "id": 27
+    },
+    {
+      "username": "fjhjhg",
+      "password": "yjkykkk",
+      "role": "5",
+      "id": 28
+    },
+    {
+      "username": "vicedecano1",
+      "password": "kghrri",
+      "role": "3",
+      "id": 29
+    },
+    {
+      "username": "vdc1",
+      "password": "erertt",
+      "role": "3",
+      "id": 30
+    },
+    {
+      "username": "direccion",
+      "password": "rthdfd12",
+      "role": "2",
+      "id": 31
+    },
+    {
+      "username": "Jesus",
+      "password": "lotremjds",
+      "role": "5",
+      "id": 32
+    },
+    {
+      "username": "gheisa",
+      "password": "efoeifhno",
+      "role": "5",
+      "id": 33
+    }
+  ]
+}
